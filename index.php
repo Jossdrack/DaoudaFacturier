@@ -86,7 +86,7 @@ var_dump($_SESSION);
         if(isset($moduleHome))echo $moduleHome->display ();
         if(isset($moduleFacture))echo $moduleFacture->display();
         if(isset($moduleSociete)) echo $moduleSociete->display();
-        cdcvf
+
 
 
 ?>
